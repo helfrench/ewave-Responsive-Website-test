@@ -283,16 +283,15 @@ background: #ff2020;
   .carousel-images{
     width: 1160px;
   }
-
-
-
  
-   
 #toTop{
     position:absolute;
   top:1300px;
   right: 50px;
 }
+
+
+
 footer {
     
     bottom: 0;
